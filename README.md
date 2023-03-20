@@ -1,4 +1,4 @@
-# Capston-1
+# Capston-2
 <a name="RR Conference 2023"></a>
 <div align="center">
   <br/>
@@ -26,7 +26,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [South Africa Conference] <a name="Capstone-1">Capstone-1</a>
+# 📖 [South Africa Conference] <a name="Capstone-2">Capstone-2</a>
 
 This is a South Africa Biggest event. 
 
@@ -46,7 +46,7 @@ HTML5 css3 and javascript the latest versions were used in this project.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://kayembajonathan.github.io/capston-2/)
 
 <!-- GETTING STARTED -->
 
@@ -69,7 +69,7 @@ https://github.com/KAYEMBAJONATHAN/Capston-2.git
 ### Install
 
 Install this project with:
-cd to Capstone-1.
+cd to Capstone-2.
 
 ### Run tests
 
