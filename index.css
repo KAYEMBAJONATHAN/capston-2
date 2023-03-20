@@ -82,8 +82,8 @@ a {
 }
 
 .about_logo img {
-  height: 5em;
-  width: 10em;
+  height: 3em;
+  width: 7em;
 }
 
 .about_midlle_image img {
@@ -97,9 +97,9 @@ a {
 }
 
 .footer-logo-1 a img {
-  width: 150px;
-  height: 100px;
-  margin-top: -10px;
+  height: 3em;
+  width: 7em;
+  margin-left: -164px;
 }
 
 .footer_paragraph_gmail_home {
@@ -148,10 +148,14 @@ a {
 }
 
 .main-section {
-  background-image: url('./images/images/farm_bkg_01.avif');
+  background-image: url('./images/main_big.png');
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 7rem;
+}
+
+.conf {
+  color: #ec5242;
 }
 
 .main-head {
@@ -173,7 +177,7 @@ a {
   color: transparent;
   width: 75%;
   font-weight: bold;
-  background-image: url('./images/flashimg.webp');
+  background-image: url('');
   background-repeat: no-repeat;
   background-position: 20% 20%;
   background-size: cover;
