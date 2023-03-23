@@ -91,9 +91,10 @@ a {
   padding-top: 0%;
   padding-bottom: 0%;
   align-items: center;
-  height: 60vh;
+  height: 18vh;
   position: relative;
   right: 8%;
+  margin: 20px;
 }
 
 .footer-logo-1 a img {
@@ -135,7 +136,6 @@ a {
 
 .lower_navigation ul li a {
   text-decoration: none;
-  color: #3e3e3e;
   font-family: 'poppins', sans-serif;
   font-weight: 500;
   font-size: 17px;
@@ -159,7 +159,6 @@ a {
 }
 
 .main-head {
-  background-color: rgba(199, 199, 199, 0.42);
   height: 100%;
   width: 100%;
   padding-bottom: 10%;
@@ -239,10 +238,10 @@ a {
 .midder_section h2 {
   text-align: center;
   padding-top: 5%;
-  width: 17%;
+  width: 7%;
   padding-bottom: 1%;
   border-bottom: 4px solid #ec5242;
-  font-size: 30px;
+  font-size: 12px;
   justify-content: center;
   font-family: 'lato', sans-serif;
   color: #fff;
@@ -312,10 +311,10 @@ a {
 .down_section h2 {
   text-align: center;
   padding-top: 5%;
-  width: 22%;
+  width: 18%;
   padding-bottom: 1%;
   border-bottom: 4px solid #ec5242;
-  font-size: 30px;
+  font-size: 19px;
   justify-content: center;
   font-family: 'lato', sans-serif;
   color: #000;
@@ -348,11 +347,16 @@ a {
   font-weight: 600;
 }
 
+.prog {
+  color: #3e3e3e;
+}
+
 .proffesionalism {
   color: #fe523a;
   font-size: 26px;
   font-weight: 500;
   font-family: 'lato-italic', sans-serif;
+  overflow: hidden;
 }
 
 .partners {
@@ -524,6 +528,10 @@ a {
   display: none;
 }
 
+.follow {
+  color: #ec5242;
+}
+
 @media screen and (max-width: 768px) {
   .main_header h1 {
     font-family: 'Lato', sans-serif;
@@ -684,13 +692,14 @@ a {
   }
 
   .about_midlle_image img {
-    width: 100%;
-    padding-top: 0%;
-    padding-bottom: 0%;
+    width: 213%;
+    padding-top: 2%;
+    padding-bottom: 3%;
     align-items: center;
-    height: 30vh;
+    height: 15vh;
     position: relative;
-    right: 8%;
+    right: 76%;
+    margin: 10px;
   }
 
   .footer_home {
@@ -710,6 +719,18 @@ a {
     width: 120px;
     height: 70px;
     margin-top: 5%;
+  }
+
+  .midder_section h2 {
+    text-align: center;
+    padding-top: 5%;
+    width: 7%;
+    padding-bottom: 1%;
+    border-bottom: 4px solid #ec5242;
+    font-size: 12px;
+    justify-content: center;
+    font-family: 'lato', sans-serif;
+    color: #fff;
   }
 
   .hiden {
@@ -780,6 +801,7 @@ a {
   .drop-down-menu ul {
     padding-top: 3%;
     display: flex;
+    margin: 25%;
     flex-direction: column;
     gap: 3%;
   }
@@ -825,6 +847,7 @@ a {
     font-weight: 900;
     text-transform: uppercase;
     padding-top: 8%;
+    text-align: center;
   }
 
   .about_middle_container h2 {
@@ -875,5 +898,9 @@ a {
     align-items: center;
     margin-top: 0;
     padding-top: 0;
+  }
+
+  .icons {
+    width: 100px;
   }
 }

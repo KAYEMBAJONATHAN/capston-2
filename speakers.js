@@ -1,14 +1,14 @@
 const speakersData = [
   {
     name: 'John Kayode',
-    proffesionalism: 'Professor at School of Agric-Science',
+    proffesionalism: 'Professor at University of Pretoria',
     img: './images/speaker_01.png',
     description:
       'Cultivators of the earth are the most valuable citizens. They are the most vigorous, the most independent, the most virtuous,',
   },
   {
     name: 'Luke Sean',
-    proffesionalism: 'CEO Catenx Farms',
+    proffesionalism: 'CEO at Retro Rabbit',
     img: './images/speaker_02.png',
     description:
       'Future Farmers of America. Group who take ag classes and are going to inherit the farm. Hot shit around here,',
@@ -28,14 +28,14 @@ const speakersData = [
   },
   {
     name: 'Theresa Baker',
-    proffesionalism: 'professor at West Africa School of Agriculture',
+    proffesionalism: 'professor at Wit university',
     img: './images/speaker_05.png',
     description:
       'Focusing on a collaborative approach in a networked environment, she created the concept of mixed and rotational farming.',
   },
   {
     name: 'Logan Baker',
-    proffesionalism: 'professor at Harvard Law School',
+    proffesionalism: 'professor at Harvard unisa',
     img: './images/speaker_06.png',
     description:
       'If you can not plant trees, just imagine how much farmers are doing you a favour by giving you food to survive.',
