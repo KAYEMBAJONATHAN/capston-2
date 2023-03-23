@@ -134,6 +134,10 @@ a {
   font-family: 'lato', sans-serif;
 }
 
+p {
+  margin-left: 10%;
+}
+
 .lower_navigation ul li a {
   text-decoration: none;
   font-family: 'poppins', sans-serif;
