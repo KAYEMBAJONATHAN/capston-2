@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -24,6 +25,12 @@ body {
   color: white;
   margin-right: 5%;
   list-style-type: none;
+}
+
+.class {
+  margin: 25px;
+  text-align: center;
+  position: relative;
 }
 
 .lower_navigation {
@@ -132,10 +139,6 @@ a {
   text-decoration: underline;
   font-size: 18px;
   font-family: 'lato', sans-serif;
-}
-
-p {
-  margin-left: 10%;
 }
 
 .lower_navigation ul li a {
@@ -396,6 +399,10 @@ p {
   font-size: 20px;
 }
 
+.class-img {
+  width: 150px;
+}
+
 .organisation a:hover {
   text-decoration: underline;
 }
@@ -488,9 +495,9 @@ p {
 .about_footer {
   font-family: 'Lato', sans-serif;
   margin-top: 10%;
-  background: #2e2e2e;
-  color: #fff;
-  font-size: 20px;
+  background: #fff;
+  color: #272431;
+  font-size: 18px;
   height: 20vh;
   padding-top: 4%;
   padding-bottom: 8%;
