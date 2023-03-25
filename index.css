@@ -28,8 +28,8 @@ body {
 }
 
 .class {
-  margin: 25px;
-  text-align: center;
+  margin: 15px;
+  text-align: left;
   position: relative;
 }
 
@@ -44,8 +44,9 @@ body {
 .lower_navigation ul {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding-right: 8%;
+  justify-content: end;
+  padding-right: 15%;
+  gap: 70px;
 }
 
 .lower_navigation ul li {
@@ -86,6 +87,10 @@ a {
   width: 100%;
   height: 5em;
   margin-bottom: 10%;
+}
+
+.header-paragraph head {
+  font-weight: 500;
 }
 
 .about_logo img {
@@ -230,7 +235,7 @@ a {
 .bottom-header p {
   font-family: 'lato', sans-serif;
   font-size: 17px;
-  font-weight: bold;
+  font-weight: inherit;
   color: #000;
 }
 
@@ -400,7 +405,7 @@ a {
 }
 
 .class-img {
-  width: 150px;
+  width: 130px;
 }
 
 .organisation a:hover {
@@ -495,8 +500,8 @@ a {
 .about_footer {
   font-family: 'Lato', sans-serif;
   margin-top: 10%;
-  background: #fff;
-  color: #272431;
+  background: #272431;
+  color: #d3d3d3;
   font-size: 18px;
   height: 20vh;
   padding-top: 4%;
@@ -622,7 +627,7 @@ a {
 
   .card-heading {
     display: flex;
-    margin: 5px 10px 5px 5px;
+    height: 50px;
     width: 100%;
   }
 
@@ -634,6 +639,10 @@ a {
     align-self: center;
     font-size: 16px;
     font-weight: bold;
+  }
+
+  .feat {
+    color: red;
   }
 
   .mobile_talk {
